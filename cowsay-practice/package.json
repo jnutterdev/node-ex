@@ -1,12 +1,15 @@
 {
-  "name": "cowsay-practice",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+    "name": "cowsay-practice",
+    "version": "1.0.0",
+    "description": "Simple node app that does the cowsay thing",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "john",
+    "license": "ISC",
+    "dependencies": {
+        "cowsay": "^1.4.0"
+    }
 }
